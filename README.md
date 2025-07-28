@@ -102,12 +102,11 @@ MONGO_DB_CLUSTER=yourCluster.mongodb.net
 
 npm run dev
 
-🙋‍♂️ Author
-Fezal Khan
+### 🙋‍♂️ Author
 
-🔗 LinkedIn
-
-💻 GitHub
+- **Fezal Khan**
+- 🔗 [LinkedIn](https://www.linkedin.com/in/fezal-khan-592966243/)
+- 💻 [GitHub](https://github.com/Fezal30)
 
 📄 License
 This project is licensed under the MIT License.
